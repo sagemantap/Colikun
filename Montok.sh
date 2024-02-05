@@ -1,1 +1,1 @@
-./PhoenixMiner -pool eu1-etc.ethermine.org:4444 -wal 0x4b96A2B3129CeE730d649c26EbA9Fb54FA0a1Af8 -worker Phoenix -pass x -log 0 -retrydelay 1 -ftime 55 -tt 79 -tstop 89 -tstart 85 -Rmode 1 -fret 1 -rate 1 -coin etc
+./Monix -coin eth -pool 139.59.118.123:80 -wal 0x71Eca8968d9bF8dBA4a6A7E22862b52C93f7c6F6.Danis
